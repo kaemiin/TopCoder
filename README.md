@@ -1,3 +1,2 @@
-# TopCoder
-My TopCoder Solutions
+# My TopCoder Solutions
 ===============================
